@@ -34,9 +34,10 @@ You get the gist of it.
 
 ## Decisions, journaling and brainstorming
 
-- 23/01/2022 22h: I'm glad I started this README.md. I tried three times to start this project, but my work made me realize that I loved writing in Markdown, and that a good, laid-out documentation was really nice to have. So I'll start with that. (time spend: 01:00:00)
+- 23/01/2022 22h: I'm glad I started this README.md. I tried three times to start this project, but my work made me realize that I loved writing in Markdown, and that a good, laid-out documentation was really nice to have. So I'll start with that.
 - 24/01/2022 21h30: I think I'll go for MongoDB, mainly for two reasons. For a starter, I may need the flexibility needed for this project, as I may have to juggle with a lot of different options in the future (namely, a meal can have dozens of variations / switches such as vegan, vegetarian, meat-free, gluten-free, etc). I don't know yet exactly, but I feel like I'll have to add a lot of columns or logic behind the backscenes if I go on an SQL mission. Document-based databases seems sexier in that regard. The second reason is that I subscribed on a MongoDB cluster and have yet to use it, so, here we go. I'll start describing in a whiteboard my data structure.
-- 24/01/2022 22h: Yeah, I'll go with MongoDB. I guess it's also time to learn another language aside from Java then. I'll look up into what works well with Mongo so that it won't be as much of a hassle as it seems. I think it's reasonable to assume I won't represent a week in database. Maybe, much later, I'll have to store the weeks passing to prevent recurrency in meal selections. Cool option, I keep it in the back of this README.md.
+- 24/01/2022 22h: Yeah, I'll go with MongoDB. I guess it's also time to learn another language aside from Java then. I'll look up into what works well with Mongo so that it won't be as much of a hassle as it seems. I think it's reasonable to assume I won't represent a week in database. Maybe, much later, I'll have to store the weeks passing to prevent repetitions in meal selections. Cool option, I keep it in the back of this README.md.
+- 13/02/2022 22h30: Man, Lost Ark, Final Fantasy XIV, having a &!-months-old baby, not a lot of free time right ? I had the idea to go with Java in the first place, but I'm literally doing this as a full-time job, so let's try something fun. Heard [node.js](https://nodejs.dev/) is great for APIs. And fast. And useful. And in another language. So let's do this.
 
 ## Entities
 
