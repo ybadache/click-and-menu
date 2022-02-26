@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Salade endives - pommes - noix",
+    "nature": "evening",
+    "ingredients": [
+      "Endives",
+      "Cerneaux de noix",
+      "Pommes Golden",
+      "Vinaigre balsamique",
+      "Huile d'olive"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Riz aux oignons",
+    "nature": "midday",
+    "ingredients":  [
+      "Riz blanc",
+      "Graines de tournesol",
+      "Oignons"
+    ]
+  }
+]
